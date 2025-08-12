@@ -25,14 +25,14 @@ O objetivo é permitir que o usuário adicione nomes à lista, visualize todos o
 
 ## 📂 Estrutura de Arquivos
 
-challenge-amigo-secreto/
-├── assets/
-│   ├── amigo-secreto.png
-│   ├── play_circle_outline.png
-├── index.html
-├── style.css
-├── app.js
-└── README.md
+challenge-amigo-secreto/        
+├── assets/        
+│   ├── amigo-secreto.png        
+│   ├── play_circle_outline.png        
+├── index.html        
+├── style.css        
+├── app.js        
+└── README.md        
 
 
 
@@ -65,3 +65,4 @@ challenge-amigo-secreto/
 ## ✨ Créditos e Licença
 
 Este projeto foi desenvolvido por **Alexandre Bittencourt Basani** durante o programa **Oracle Next Education + Alura** e é de uso livre para fins educacionais, sob a licença **MIT**.
+
